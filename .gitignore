@@ -69,11 +69,6 @@ crashlytics-build.properties
 /[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 
 # Temporary auto-generated Android Assets
-/[Aa]ssets/[Ss]treamingAssets/aa.meta
-/[Aa]ssets/[Ss]treamingAssets/aa/*
-/[Aa]ssets/[Ss]Sun_Temple/
-
-Assets/Sun_Temple
 
 Assets/KINEMATION
 Assets/KINEMATION/*
@@ -92,3 +87,8 @@ Assets/Fantasy Skybox FREE/
 /Assets/FImpossible Creations
 /Assets/House
 /Assets/Plugins/Easy Save 3
+/Assets/PlayMaker
+/Assets/Plugins
+/Assets/tripolygon
+/Assets/Gizmos
+/Assets/Reallusion
