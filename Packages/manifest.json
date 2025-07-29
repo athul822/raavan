@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.soupday.cc3_unity_tools": "file:D:/Game dev/Addons/CCiC-Unity-Tools-2.0.0",
+    "com.soupday.cc3_unity_tools": "file:E:/Unity/Raavan/Packeges/CCiC-Unity-Tools-2.0.0/CCiC-Unity-Tools-2.0.0",
     "com.unity.burst": "1.8.21",
     "com.unity.cinemachine": "2.10.3",
     "com.unity.collab-proxy": "2.8.2",

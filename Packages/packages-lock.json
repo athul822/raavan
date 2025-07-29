@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.soupday.cc3_unity_tools": {
-      "version": "file:D:/Game dev/Addons/CCiC-Unity-Tools-2.0.0",
+      "version": "file:E:/Unity/Raavan/Packeges/CCiC-Unity-Tools-2.0.0/CCiC-Unity-Tools-2.0.0",
       "depth": 0,
       "source": "local",
       "dependencies": {}
